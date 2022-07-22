@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.vanced.manager",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 3000,
+      "versionName": "3.0.0 (Re@Composed)",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
